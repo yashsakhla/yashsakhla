@@ -11,8 +11,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🌍 I’m based in Navi Mumbai, India 🇮🇳  
-- 🔭 I’m currently building full-stack applications using **Angular + Node.js**  
+- 🌍 I’m based in Nagpur, India 🇮🇳  
+- 🔭 I’m currently building full-stack applications using **Angular, ReactJs, + Node.js**  
 - 🚀 I love turning UI ideas into beautiful and functional apps  
 - 🧠 I’m learning advanced AI integrations with Full Stack stacks  
 - 💬 Ask me about: Angular, Node.js, MongoDB, REST APIs, Hosting  
