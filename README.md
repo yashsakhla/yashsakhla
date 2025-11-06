@@ -12,7 +12,7 @@
 ### 🧑‍💻 About Me
 
 - 🌍 I’m based in Nagpur, India 🇮🇳  
-- 🔭 I’m currently building full-stack applications using **Angular, ReactJs, + Node.js**  
+- 🔭 I’m currently building full-stack applications using **Angular,NextJs, ReactJs, + Node.js**  
 - 🚀 I love turning UI ideas into beautiful and functional apps  
 - 🧠 I’m learning advanced AI integrations with Full Stack stacks  
 - 💬 Ask me about: Angular, Node.js, MongoDB, REST APIs, Hosting  
@@ -23,7 +23,7 @@
 ### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,mongodb,mysql,ts,js,html,css,tailwind,vercel,nginx,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=angular,next,react,nodejs,express,mongodb,mysql,ts,js,html,css,tailwind,vercel,nginx,git,vscode" />
 </p>
 
 ---
